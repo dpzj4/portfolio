@@ -1,0 +1,32 @@
+#navbar ul{
+    list-style: none;
+    display: flex;
+    justify-content:flex-end;
+}
+li{
+    padding-right: 30px;
+}
+#welcome-section{
+    height: 100vh;
+    width: 100vw;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    margin: auto;
+}
+#projects{
+    height: 100vh;
+    width: 100vw;
+    background-color: red;
+}
+#contact{
+    height: 100vh;
+    width: 100vw;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
